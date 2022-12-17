@@ -2,7 +2,7 @@
 
 An example project to try https://maven.apache.org/extensions/maven-build-cache-extension/[Maven Build Cache Extension].
 
-Cache extension requires Maven 4. Project is configured to use maven wrapper with Maven 4.0.0-alpha-2. See link:.mvn/wrapper/maven-wrapper.properties[].
+Cache extension requires Maven 4. Project is configured to use maven wrapper with Maven 4.0.0-alpha-3. See link:.mvn/wrapper/maven-wrapper.properties[].
 
 == Maven build cache config
 The cache config file is at - link:.mvn/maven-build-cache-config.xml[].See https://maven.apache.org/extensions/maven-build-cache-extension/build-cache-config.html[build-cache-config] reference for more details.
