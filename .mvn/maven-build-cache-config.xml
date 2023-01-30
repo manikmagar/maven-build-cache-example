@@ -17,9 +17,6 @@
             <includes>
                 <include>src/</include>
             </includes>
-            <excludes>
-                <exclude>pom.xml</exclude>
-            </excludes>
         </global>
     </input>
 </cache>
